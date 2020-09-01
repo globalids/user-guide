@@ -31,6 +31,7 @@ $ ./stop.sh -k
 ## Access the Software
 
 Navigate to URL http://<Public_DNS>:45450/new (Recommended to use Google Chrome)
+
 To get the login credentials please communicate with support@globalids.com
 
 
