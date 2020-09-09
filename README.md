@@ -1,4 +1,23 @@
-## Start the Software Server
+## Before You Begin
+
+- Before you launch the automated deployment on AWS, verify the prerequisites.
+- The AMI has a 30 day evaluation period license.
+
+## License Key Prerequisite
+
+- Verify that you have a license to deploy Global IDs Data Ecosystem Management Suite.
+- BYOL URL:- https://www.globalids.com/contact-us
+
+## AWS Subscription
+
+- Users should have an active AWS subscription with the ability to launch instances from AWS marketplace.
+
+## Note:- The software will start automatically at start up.
+
+- You can check the software status by executing the script checkServices.sh from the Server location (/home/ec2-user/server/).
+- All components should be in running state.
+
+## To Start the Software Server Manually
 
 - Log in into the linux instance as a ec2-user
 
