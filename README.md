@@ -1,7 +1,7 @@
 ## Before You Begin
 
-- Before you launch the automated deployment on AWS, verify the prerequisites.
-- The AMI has a 30 day evaluation period license.
+- Before you launch the automated deployment on cloud, verify the prerequisites.
+- The image has a 30 day evaluation period license.
 
 ## License Key Prerequisite
 
@@ -10,18 +10,18 @@
 
 ## AWS Subscription
 
-- Users should have an active AWS subscription with the ability to launch instances from AWS marketplace.
+- Users should have an active subscription with the ability to launch instances from AWS marketplace.
 
 ## Note:- The software will start automatically at start up.
 
-- You can check the software status by executing the script checkServices.sh from the Server location (/home/ec2-user/server/).
+- You can check the software status by executing the script checkServices.sh from the Server location (/home/<username>/server/).
 - All components should be in running state.
 
 ## To Start the Software Server Manually
 
-- Log in into the linux instance as a ec2-user
+- Log in into the linux instance
 
-- Change directory to `/home/ec2-user/server`
+- Change directory to `/home/<username>/server`
 
 - Run the script `run.sh` by entering the command
 
@@ -37,7 +37,7 @@ $ ./run.sh -dv –h:2 &
 
 - Log in into the linux instance as a ec2-user
 
-- Change directory to `/home/ec2-user/server`
+- Change directory to `/home/<username>/server`
 
 - Run the script `stop.sh` by entering the command
 
