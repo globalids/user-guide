@@ -35,7 +35,7 @@ $ ./run.sh -dv –h:2 &
 
 ## Stop the Software Server
 
-- Log in into the linux instance as a ec2-user
+- Log in into the linux instance
 
 - Change directory to `/home/<username>/server`
 
