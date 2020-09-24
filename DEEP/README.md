@@ -14,7 +14,7 @@ BYOL URL: [https://www.globalids.com/contact-us](https://www.globalids.com/conta
 
 Users should have an active cloud subscriptionwith the ability to launch instances from the image.
 
-> :memo: **Note: The software will start automatically at start up**
+### Note: The software will start automatically at start up 
 
 You can check the software status by executing the script checkServices.sh from the Server location `(/home/<username>/server/).`
 
