@@ -36,15 +36,13 @@ $ ./run.sh -dv –h:2 &
 
 - Wait till the message &quot;Server started successfully&quot; is displayed on the screen.
 - Server startup options -h:n [n=Number of habitats] -dv [Disable verification].
-
-  - Change directory to `/home/<username>/qai`
-
-  - Go inside the directory `cd /value-store/app`
-  - Run the script `run.sh` by entering the command. `./run.sh &`
-  - Go inside the directory `cd /Server/app`
-  - Run the script `run.sh` by entering the command. `./run.sh &`
-  - Go inside the directory `cd /agent/app`
-  - Run the script `run.sh` by entering the command. `./run.sh &`
+- Change directory to `/home/<username>/qai`
+- Go inside the directory `cd /value-store/app`
+- Run the script `run.sh` by entering the command. `./run.sh &`
+- Go inside the directory `cd /Server/app`
+- Run the script `run.sh` by entering the command. `./run.sh &`
+- Go inside the directory `cd /agent/app`
+- Run the script `run.sh` by entering the command. `./run.sh &`
 
 ## Access software UI
 
