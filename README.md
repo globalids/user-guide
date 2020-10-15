@@ -2,6 +2,7 @@
 
 - Before you launch the automated deployment on cloud, verify the prerequisites.
 - The image has a 30 day evaluation period license.
+- End to end user journey https://youtu.be/6NZKeEEs63I
 
 ## License Key Prerequisite
 
@@ -14,6 +15,7 @@
 
 ## Note:- The software will start automatically at start up.
 
+- The software will start automatically at startup, Please wait for 5 to 7 minutes to access the web-ui.
 - You can check the software status by executing the script checkServices.sh from the Server location (/home/<username>/server/).
 - All components should be in running state.
 
